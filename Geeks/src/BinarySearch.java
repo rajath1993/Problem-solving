@@ -10,7 +10,7 @@ public class BinarySearch {
 		
 		System.out.println(yes);
 	}
-	
+	/*finding key item using binary search*/
 	static boolean findNum(int[] a,int n) {
 		int beg = 0;
 		int end = a.length - 1;
